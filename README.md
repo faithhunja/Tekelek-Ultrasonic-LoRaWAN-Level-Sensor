@@ -1,2 +1,2 @@
 # Tekelek-Ultrasonic-LoraWAN-Level-Sensor
-This code serves pull data from the server and decode the measurements and status readings from the level sensor.
+This code pulls data from the server and decodes the measurements and status readings from the level sensor.
